@@ -1,0 +1,1 @@
+include ':mtj-app-android', ':mtj-app-client', ':mtj-core', ':mtj-app-server'
